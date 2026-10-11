@@ -1,0 +1,42 @@
+baseURL = "https://chenbinzhiegg.github.io/"
+languageCode = "zh-cn"
+title = "我的博客"
+theme = "hugo-coder"
+paginate = 10
+enableEmoji = true
+
+# 导航栏菜单
+[[menu.main]]
+  name = "文章"
+  weight = 1
+  url = "posts/"
+
+[[menu.main]]
+  name = "标签"
+  weight = 2
+  url = "tags/"
+
+[[menu.main]]
+  name = "关于"
+  weight = 3
+  url = "about/"
+
+[params]
+  author = "ZhibinChen"
+  description = "这是我的个人博客"
+  keywords = "developer, blog, coding"
+  info = "还没想好" # 首页显示的个性签名，你可以自己改
+  avatarURL = "images/avatar.png" # 头像图片路径
+  dateFormat = "2006-01-02"
+  since = 2026
+  enableDarkMode = true
+
+# 社交图标
+[[params.social]]
+  name = "GitHub"
+  icon = "fa fa-github"
+  url = "https://github.com/chenbinzhiegg"
+[[params.social]]
+  name = "Email"
+  icon = "fa fa-envelope"
+  url = "mailto：2658513206@qq.com" # 记得把这里改成你真实的邮箱
