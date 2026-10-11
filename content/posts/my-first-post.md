@@ -1,24 +1,14 @@
 +++
 
+title = "我的第一篇文章"
+
+date = 2026-10-11
+
 draft = false
 
-date = 2026-10-11T22:17:10+08:00
-
-title = "My First Post"
-
-description = "Hello I'm Chenzhibin .This is my first blog website!!!"
-
-slug = ""
-
-authors = \[]
-
-tags = \[]
-
-categories = \[]
-
-externalLink = ""
-
-series = \[]
-
 +++
+
+
+
+你好，我是陈至斌，这是我的第一个博客网站！
 
